@@ -5,4 +5,4 @@ def cauculoidade(nascimento,anoAtual):
     idade=anoAtual-nascimento
     return idade
 idade=cauculoidade(nascimento, anoAtual)
-print (idade)
+print ('idade é',idade,'anos')
